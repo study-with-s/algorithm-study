@@ -31,6 +31,8 @@ git commit -m "[BOJ] Hello World#2557 / 브론즈5 / 1분" -m "https://www.acmic
 
 [코딩테스트 대비 문제집](https://algorithm.tony9402.com/)
 
+## 기타
+상은 코드만 올리는 레포지토리 -> https://github.com/silvarge/algorithm 
 
 ## 참고 자료
 [challenge100-codingtest-study](https://github.com/ellynhan/challenge100-codingtest-study)

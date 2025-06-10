@@ -1,6 +1,21 @@
 # algorithm-study
 알고리즘 스터디 (for 코테)
 
+## 주제
+주차 | 주제
+--- | ---
+1 | 배열/문자열
+2 | 집합과 맵
+3 | 완전 탐색 (브루트 포스)
+4 | 스택과 큐
+5 | 우선순위큐 / Deque
+6 | 정렬과 탐색
+7 | 이분 탐색
+8 | DFS/BFS
+9 | 재귀와 백트래킹
+10 | 그래프
+11 | 동적계획법 기초 (DP)
+
 ## Ground Rule
 ### Rule
 - 스터디 시간: 매주 수요일 오후 8시
@@ -48,3 +63,5 @@ git commit -m "[BOJ] Hello World#2557 / 브론즈5 / 1분" -m "https://www.acmic
 [오늘의 문제](https://github.com/tony9402/baekjoon/blob/main/picked.md)
 
 [알고리즘 자료](https://github.com/VSFe/Algorithm_Study)
+
+[코테 관련 팁](https://dev-dain.tistory.com/155)
